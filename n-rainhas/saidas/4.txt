@@ -1,0 +1,4 @@
+Rainha 1 - Posição: (1, 3)
+Rainha 2 - Posição: (2, 1)
+Rainha 3 - Posição: (3, 4)
+Rainha 4 - Posição: (4, 2)
