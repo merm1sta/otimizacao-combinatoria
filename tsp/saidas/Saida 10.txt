@@ -1,0 +1,12 @@
+Execução 1:
+Melhor rota: [1, 5, 4, 7, 8, 3, 2, 6, 9, 10]
+Custo: 36
+
+Execução 2:
+Melhor rota: [1, 5, 2, 3, 8, 7, 10, 6, 9, 4]
+Custo: 37
+
+Execução 3:
+Melhor rota: [1, 5, 4, 9, 10, 7, 8, 3, 2, 6]
+Custo: 36
+
